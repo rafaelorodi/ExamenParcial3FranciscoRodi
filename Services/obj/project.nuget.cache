@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mxm200gdNXQIBKbVAtucHoCwJJkBH5JorRSajWKARp46mwnqmxjgq7ZqFIcIytWUDOQ0Ilz8lLSLTmoXE2M8pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae\\Downloads\\examen\\Examen-Parcial-Optativo-V\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.30\\microsoft.entityframeworkcore.6.0.30.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.30\\microsoft.entityframeworkcore.abstractions.6.0.30.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.30\\microsoft.entityframeworkcore.analyzers.6.0.30.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.29\\microsoft.entityframeworkcore.relational.6.0.29.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\npgsql\\6.0.11\\npgsql.6.0.11.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.29\\npgsql.entityframeworkcore.postgresql.6.0.29.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

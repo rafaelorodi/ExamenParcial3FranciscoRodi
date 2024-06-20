@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\api.ParcialRafaelRodi.props" />
+</Project>
